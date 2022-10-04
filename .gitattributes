@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 Pixelmon-1.16.5-9.0.10-universal.jar filter=lfs diff=lfs merge=lfs -text
+ThePixelmonOST.zip filter=lfs diff=lfs merge=lfs -text
